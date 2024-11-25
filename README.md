@@ -1,2 +1,5 @@
-# Aula_PHP
+# Aula_PHP ☕
+
+* Fizemos exercícios de PHP
+
  
